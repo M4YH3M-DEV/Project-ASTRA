@@ -1,5 +1,7 @@
 # 🤖 ASTRA MVP – Autonomous Smart Tech Robotic Assistant (MVP)
 
+![Banner](./ROBOT_MVP.png)
+
 A powerful, emotion-aware mobile assistant robot built for real-world intelligence, research, interaction, and multi-domain AI applications.
 
 ## 🌟 Vision
