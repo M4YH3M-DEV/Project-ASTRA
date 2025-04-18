@@ -47,7 +47,7 @@ The MVP serves as a proof-of-concept platform for robotics + AI/ML + embedded sy
 | Misc Sensors, Wiring, PCB   | ₹3,000 |
 | **Total**                   | **₹90,000–1,30,000** |
 
-**About : 1,50,000 INR **
+**About : 1,50,000 INR**
 
 ---
 
