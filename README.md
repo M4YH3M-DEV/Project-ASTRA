@@ -133,7 +133,7 @@ The MVP serves as a proof-of-concept platform for robotics + AI/ML + embedded sy
 
 - Professors & Researchers in AI/Robotics
 - Labs like MIT CSAIL, Stanford AI Lab, ETH Zurich ASL
-- Hackathons, Expo Showcases (e.g., Aero India 2026)
+- Hackathons, Expo Showcases
 - Open-source robotics & edge-AI community
 
 ---
